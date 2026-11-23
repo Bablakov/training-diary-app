@@ -4,7 +4,7 @@
 
 | Устройство | Как поставить |
 |---|---|
-| **Android** | Скачай [`training-diary-1.0.0.apk`](https://github.com/Bablakov/training-diary-app/releases/latest/download/training-diary.apk) с телефона и установи (разреши установку из этого источника). |
+| **Android** | Скачай [`training-diary.apk`](https://github.com/Bablakov/training-diary-app/releases/latest/download/training-diary.apk) с телефона и установи (разреши установку из этого источника). |
 | **Windows** | Скачай [`training-diary-setup.exe`](https://github.com/Bablakov/training-diary-app/releases/latest/download/training-diary-setup.exe) и запусти. Права администратора не нужны, ярлык появится на рабочем столе и в «Пуске». |
 | **iPhone** | Открой https://bablakov.github.io/training-diary/ в Safari → «Поделиться» → «На экран „Домой“». |
 
